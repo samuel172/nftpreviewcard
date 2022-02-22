@@ -80,6 +80,11 @@ body {
     color: #FAFFFF;
 }
 
+.byline span:hover {
+    color: #12F3E0;
+    cursor: pointer;
+}
+
 p {
     font-family: Outfit;
     color: #778BAD;
@@ -92,6 +97,11 @@ p {
     font-size: 20px;
     font-weight: 600;
     color: #FAFFFF;
+}
+
+.title:hover {
+    color: #12F3E0;
+    cursor: pointer;
 }
 
 .eth {
